@@ -6,7 +6,7 @@ const process = module.exports = {};
 
 process.nextTick = Script.nextTick;
 
-process.title = 'Frida';
+process.title = 'Plawnekjx';
 process.browser = true;
 process.env = {};
 process.argv = [];

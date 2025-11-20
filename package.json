@@ -1,14 +1,14 @@
 {
-  "name": "frida-process",
+  "name": "plawnekjx-process",
   "version": "3.0.1",
   "authors": [
-    "Frida Developers"
+    "Plawnekjx Developers"
   ],
-  "description": "Node.js compatible “process” module for Frida",
+  "description": "Node.js compatible “process” module for Plawnekjx",
   "keywords": [
-    "frida"
+    "plawnekjx"
   ],
-  "homepage": "https://www.frida.re",
+  "homepage": "https://www.plawnekjx.re",
   "main": "index.js",
   "files": [
     "/index.js"
@@ -16,9 +16,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frida/frida-process.git"
+    "url": "https://github.com/plawnekjx/plawnekjx-process.git"
   },
   "bugs": {
-    "url": "https://github.com/frida/frida-process/issues"
+    "url": "https://github.com/plawnekjx/plawnekjx-process/issues"
   }
 }
